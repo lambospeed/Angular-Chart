@@ -1,0 +1,201 @@
+<div class="header-wrapper">
+  <div class="logo-wrapper">
+    <img src="./assets/images/logo-text.png" alt="Ormecoin's logo">
+    <div>
+      <div class="header-title">RME</div>
+      <div class="header-subtitle">Reserve Vault</div>
+    </div>
+
+
+  </div>
+</div>
+<div class="content-wrapper">
+  <div class="stats charts tabbed content">
+    <div class="stats-header">
+      <div class="tabs">
+        <div *ngFor="let coin of coinList" class="tab" (click)="setCoin($event)"
+             [ngClass]="{'active': activeTab == coin.code}" [id]="coin.code">
+          <p>{{ coin.code }}</p>
+        </div>
+      </div>
+      <div class="switch-wrapper" *ngIf="activeTab === 'overview'">
+        <span class="switch-title">Pie Charts:</span>
+        <label class="switch">
+          <input type="checkbox" [formControl]="pieChartsMode">
+          <span class="slider round"></span>
+        </label>
+      </div>
+    </div>
+    <div class="chart-wrapper">
+      <div class="chart-header-wrapper">
+        <div class="total-orv-wrapper">
+          <h3>TOTAL ORV {{(activeTab === 'overview' ? '' : activeTab) | uppercase}} VALUE: </h3>
+          <span class="total-value">${{ totalHoldings[activeTab] ? (totalHoldings[activeTab] | number: '1.0-2') : '0' }} USD</span>
+        </div>
+        <div class="time-range-wrapper">
+          <div *ngFor="let time of timeRange" class="time-range-button">
+            <button (click)=setTimeRange($event) [ngClass]="{'active': activeTime == time}" [id]="time">{{
+              getUpperCase(time) }}
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="chart">
+        <canvas *ngIf="chartDataReady && pieChartsMode.value === true"
+                #chartPie
+                baseChart
+                [legend]="false"
+                [colors]="overviewColors"
+                [data]="overviewMarketCaps"
+                [labels]="overviewLabels"
+                [options]="pieChartOptions"
+                [chartType]="'doughnut'">
+        </canvas>
+        <canvas *ngIf="chartDataReady && pieChartsMode.value === false"
+                #chart
+                baseChart
+                [datasets]="dataToShow"
+                [labels]="labelsToShow"
+                [options]="lineChartOptions"
+                [colors]="lineChartColors"
+                [legend]="lineChartLegend"
+                [chartType]="lineChartType">
+        </canvas>
+      </div>
+    </div>
+    <div class="chart-button-wrapper">
+      <div class="chart-button" *ngFor="let button of coinDataRows">
+        <button><i class="fas fa-circle dot-icon color" [ngClass]="button.code"></i>{{ button.code }}</button>
+      </div>
+    </div>
+  </div>
+  <div class="stats table content">
+    <div class="table-wrapper" *ngIf="activeTab == 'overview'">
+      <table>
+        <tr>
+          <th class="item">
+            <p>Name</p>
+          </th>
+          <th class="item">
+            <p>Market Cap</p>
+          </th>
+          <th class="item">
+            <p>Price</p>
+          </th>
+          <th class="item">
+            <p>Volume (24h)</p>
+          </th>
+          <th class="item">
+            <p>Circulating Supply</p>
+          </th>
+          <th class="item">
+            <p>Hashing Power</p>
+          </th>
+          <th class="item">
+            <p>Coins Mined (24hr)</p>
+          </th>
+          <th class="item">
+            <p>Link</p>
+          </th>
+        </tr>
+        <tr class="row table-body" *ngFor="let row of coinDataRows">
+          <td class="item">
+            <div class="data-content">
+              <img [src]="icons[row.code]" [alt]="'A symbol representing ' + row.name">
+              <p>{{ row.name }}</p>
+            </div>
+          </td>
+          <td class="item">
+            <p>${{ row.marketCap == '-' ? row.marketCap : row.marketCap | number: '1.0-20' }}</p>
+          </td>
+          <td class="item">
+            <p class="orange">${{ row.price == '-' ? row.price : row.price | number: '1.0-20' }}</p>
+          </td>
+          <td class="item">
+            <p class="orange">${{ row.volume24h == '-' ? row.volume24h : row.volume24h | number: '1.0-20' }}</p>
+          </td>
+          <td class="item">
+            <p class="orange">{{ row.circulatingSupply == '-' ? row.circulatingSupply : row.circulatingSupply | number:
+              '1.0-20' }}</p>
+          </td>
+          <td class="item center">
+            <p>{{ row.hashingPower }}</p>
+          </td>
+          <td class="item center">
+            <p>{{ row.coinsMined }}</p>
+          </td>
+          <td class="item">
+            <a href="#"><i class="fas fa-circle dot-icon color" [ngClass]="row.code"></i></a>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <div class="table-wrapper" *ngIf="activeTab != 'overview'">
+      <table>
+        <tr>
+          <td class="item">
+            <p>Wallet</p>
+          </td>
+          <td class="item">
+            <p class="date">Date</p>
+          </td>
+          <td class="item">
+            <p>Value</p>
+          </td>
+          <td class="item">
+            <p>Confirmations</p>
+          </td>
+          <td class="item">
+            <p>TX Id</p>
+          </td>
+        </tr>
+        <tr class="row table-body" *ngFor="let row of transactions[activeTab]">
+          <td class="item">
+            <p>{{ row.wallet }}</p>
+          </td>
+          <td class="item">
+            <p>{{ row.date }}</p>
+          </td>
+          <td class="item">
+            <p>{{ row.value }}</p>
+          </td>
+          <td class="item">
+            <p>{{ row.confirmations }}</p>
+          </td>
+          <td class="item">
+            <p>{{ row.TXId }}</p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+<div class="footer-wrapper">
+  <div class="footer-logo-wrapper">
+    <img src="./assets/images/logo.png" alt="Ormecoin's logo">
+  </div>
+  <div class="footer-main-wrapper">
+    <div class="footer-section top">
+      <p>Last updated: {{ 'May 05, 2018 01:13:07 UTC' }}</p>
+    </div>
+    <div class="footer-section bottom">
+      <div class="copyright-links">
+        <p>&#x24B8; 2018 ORMEUSCOIN</p>
+        <a href="./terms">Terms</a>
+        <a href="./Privacy">Privacy</a>
+        <a href="./feedback">Send Feedback</a>
+      </div>
+      <div class="social-wrapper">
+        <div class="social-icon-wrapper facebook">
+          <a href="https://www.facebook.com/ormecoin/"><i class="fab fa-facebook"></i></a>
+        </div>
+        <div class="social-icon-wrapper twitter">
+          <a href="https://twitter.com/ormeuscoin"><i class="fab fa-twitter"></i></a>
+        </div>
+        <div class="social-icon-wrapper google-plus">
+          <a href="https://plus.google.com/113917031445899710742"><i class="fab fa-google-plus-g"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

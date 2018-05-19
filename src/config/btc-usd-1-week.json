@@ -1,0 +1,1502 @@
+[
+  {
+    "timestamp": "27/04/2018 00:00",
+    "open": 9289.3,
+    "high": 9289.5,
+    "low": 9189.9,
+    "close": 9215.7,
+    "volumeBTC": 30.63,
+    "columeUSD": 283055.64,
+    "price": 9239.83
+  },
+  {
+    "timestamp": "27/04/2018 01:00",
+    "open": 9215.3,
+    "high": 9289.7,
+    "low": 9215.3,
+    "close": 9242.3,
+    "volumeBTC": 15.74,
+    "columeUSD": 145510.88,
+    "price": 9245.91
+  },
+  {
+    "timestamp": "27/04/2018 02:00",
+    "open": 9229.4,
+    "high": 9279.9,
+    "low": 9222.3,
+    "close": 9260.8,
+    "volumeBTC": 19.82,
+    "columeUSD": 183443.76,
+    "price": 9253.53
+  },
+  {
+    "timestamp": "27/04/2018 03:00",
+    "open": 9260,
+    "high": 9271.5,
+    "low": 9170.9,
+    "close": 9170.9,
+    "volumeBTC": 25.76,
+    "columeUSD": 237247.94,
+    "price": 9210.76
+  },
+  {
+    "timestamp": "27/04/2018 04:00",
+    "open": 9191.9,
+    "high": 9232.8,
+    "low": 9152,
+    "close": 9200.3,
+    "volumeBTC": 28.81,
+    "columeUSD": 264947.66,
+    "price": 9195.93
+  },
+  {
+    "timestamp": "27/04/2018 05:00",
+    "open": 9188.4,
+    "high": 9209.9,
+    "low": 9156.9,
+    "close": 9161.7,
+    "volumeBTC": 14.99,
+    "columeUSD": 137883.98,
+    "price": 9198.23
+  },
+  {
+    "timestamp": "27/04/2018 06:00",
+    "open": 9180,
+    "high": 9260,
+    "low": 9180,
+    "close": 9225.5,
+    "volumeBTC": 18.83,
+    "columeUSD": 173739.55,
+    "price": 9227.44
+  },
+  {
+    "timestamp": "27/04/2018 07:00",
+    "open": 9225.5,
+    "high": 9253.2,
+    "low": 9187.3,
+    "close": 9218.2,
+    "volumeBTC": 17.33,
+    "columeUSD": 159832.81,
+    "price": 9224.62
+  },
+  {
+    "timestamp": "27/04/2018 08:00",
+    "open": 9237.9,
+    "high": 9300,
+    "low": 9213.4,
+    "close": 9265.9,
+    "volumeBTC": 30.08,
+    "columeUSD": 278678.46,
+    "price": 9264.33
+  },
+  {
+    "timestamp": "27/04/2018 09:00",
+    "open": 9278.8,
+    "high": 9390,
+    "low": 9255.5,
+    "close": 9370,
+    "volumeBTC": 31.69,
+    "columeUSD": 295909.56,
+    "price": 9337.54
+  },
+  {
+    "timestamp": "27/04/2018 10:00",
+    "open": 9366.9,
+    "high": 9390,
+    "low": 9337.9,
+    "close": 9389.9,
+    "volumeBTC": 31.47,
+    "columeUSD": 294935.92,
+    "price": 9372.3
+  },
+  {
+    "timestamp": "27/04/2018 11:00",
+    "open": 9371.2,
+    "high": 9387.6,
+    "low": 9274.5,
+    "close": 9300.8,
+    "volumeBTC": 30.82,
+    "columeUSD": 287502.15,
+    "price": 9326.94
+  },
+  {
+    "timestamp": "27/04/2018 12:00",
+    "open": 9289.2,
+    "high": 9367.8,
+    "low": 9251,
+    "close": 9277.2,
+    "volumeBTC": 30.07,
+    "columeUSD": 279679.47,
+    "price": 9301.37
+  },
+  {
+    "timestamp": "27/04/2018 13:00",
+    "open": 9273.6,
+    "high": 9280,
+    "low": 9170,
+    "close": 9245.2,
+    "volumeBTC": 48.63,
+    "columeUSD": 448637.21,
+    "price": 9224.74
+  },
+  {
+    "timestamp": "27/04/2018 14:00",
+    "open": 9229.6,
+    "high": 9281.1,
+    "low": 9208.1,
+    "close": 9277.8,
+    "volumeBTC": 48.63,
+    "columeUSD": 448797.03,
+    "price": 9228.66
+  },
+  {
+    "timestamp": "27/04/2018 15:00",
+    "open": 9259.6,
+    "high": 9300,
+    "low": 9227.9,
+    "close": 9267.1,
+    "volumeBTC": 41.77,
+    "columeUSD": 387336.63,
+    "price": 9273.91
+  },
+  {
+    "timestamp": "27/04/2018 16:00",
+    "open": 9275.8,
+    "high": 9349.9,
+    "low": 9272.5,
+    "close": 9315.3,
+    "volumeBTC": 32.12,
+    "columeUSD": 299369.2,
+    "price": 9318.97
+  },
+  {
+    "timestamp": "27/04/2018 17:00",
+    "open": 9315,
+    "high": 9338.9,
+    "low": 9308.3,
+    "close": 9309.9,
+    "volumeBTC": 18.72,
+    "columeUSD": 174559.6,
+    "price": 9322.85
+  },
+  {
+    "timestamp": "27/04/2018 18:00",
+    "open": 9309.5,
+    "high": 9324.7,
+    "low": 9220,
+    "close": 9257.6,
+    "volumeBTC": 33.14,
+    "columeUSD": 306662.52,
+    "price": 9253.51
+  },
+  {
+    "timestamp": "27/04/2018 19:00",
+    "open": 9250.7,
+    "high": 9250.7,
+    "low": 9125.1,
+    "close": 9137,
+    "volumeBTC": 87.14,
+    "columeUSD": 801108.29,
+    "price": 9193.33
+  },
+  {
+    "timestamp": "27/04/2018 20:00",
+    "open": 9133.5,
+    "high": 9198.7,
+    "low": 8980,
+    "close": 9000.6,
+    "volumeBTC": 82.43,
+    "columeUSD": 748709.37,
+    "price": 9082.65
+  },
+  {
+    "timestamp": "27/04/2018 21:00",
+    "open": 9000,
+    "high": 9083.7,
+    "low": 8940.1,
+    "close": 9015.4,
+    "volumeBTC": 34.52,
+    "columeUSD": 311457.45,
+    "price": 9023.66
+  },
+  {
+    "timestamp": "27/04/2018 22:00",
+    "open": 9013,
+    "high": 9099.9,
+    "low": 9000.6,
+    "close": 9048,
+    "volumeBTC": 30.25,
+    "columeUSD": 274050.31,
+    "price": 9060.89
+  },
+  {
+    "timestamp": "27/04/2018 23:00",
+    "open": 9054.5,
+    "high": 9062.9,
+    "low": 8980,
+    "close": 8993.5,
+    "volumeBTC": 27.59,
+    "columeUSD": 248802.78,
+    "price": 9018.7
+  },
+  {
+    "timestamp": "28/04/2018 00:00",
+    "open": 8989.8,
+    "high": 9075.6,
+    "low": 8943.2,
+    "close": 9017.5,
+    "volumeBTC": 21.11,
+    "columeUSD": 190323.23,
+    "price": 9015.81
+  },
+  {
+    "timestamp": "28/04/2018 01:00",
+    "open": 9069.3,
+    "high": 9095.6,
+    "low": 9023,
+    "close": 9070.2,
+    "volumeBTC": 14.98,
+    "columeUSD": 135560.68,
+    "price": 9050.88
+  },
+  {
+    "timestamp": "28/04/2018 02:00",
+    "open": 9089.8,
+    "high": 9100,
+    "low": 9053.3,
+    "close": 9053.3,
+    "volumeBTC": 18.34,
+    "columeUSD": 166720.76,
+    "price": 9092.09
+  },
+  {
+    "timestamp": "28/04/2018 03:00",
+    "open": 9067.2,
+    "high": 9150,
+    "low": 9056.1,
+    "close": 9130.9,
+    "volumeBTC": 17.95,
+    "columeUSD": 163726.34,
+    "price": 9121.46
+  },
+  {
+    "timestamp": "28/04/2018 04:00",
+    "open": 9120.3,
+    "high": 9154.4,
+    "low": 9106.8,
+    "close": 9130.5,
+    "volumeBTC": 8.84,
+    "columeUSD": 80761.44,
+    "price": 9135.95
+  },
+  {
+    "timestamp": "28/04/2018 05:00",
+    "open": 9131.9,
+    "high": 9169.9,
+    "low": 9120.4,
+    "close": 9132.9,
+    "volumeBTC": 9.18,
+    "columeUSD": 84035.68,
+    "price": 9150.51
+  },
+  {
+    "timestamp": "28/04/2018 06:00",
+    "open": 9133.1,
+    "high": 9199.6,
+    "low": 9133.1,
+    "close": 9165,
+    "volumeBTC": 9.58,
+    "columeUSD": 87868.35,
+    "price": 9173.99
+  },
+  {
+    "timestamp": "28/04/2018 07:00",
+    "open": 9165.3,
+    "high": 9196.1,
+    "low": 9131.1,
+    "close": 9152.6,
+    "volumeBTC": 18.85,
+    "columeUSD": 172641.29,
+    "price": 9160.15
+  },
+  {
+    "timestamp": "28/04/2018 08:00",
+    "open": 9156.4,
+    "high": 9347.9,
+    "low": 9100.6,
+    "close": 9255,
+    "volumeBTC": 75.87,
+    "columeUSD": 701570.9,
+    "price": 9247.21
+  },
+  {
+    "timestamp": "28/04/2018 09:00",
+    "open": 9202.9,
+    "high": 9289.3,
+    "low": 9142.6,
+    "close": 9232.1,
+    "volumeBTC": 45.15,
+    "columeUSD": 416340.65,
+    "price": 9220.61
+  },
+  {
+    "timestamp": "28/04/2018 10:00",
+    "open": 9258.2,
+    "high": 9300,
+    "low": 9241.5,
+    "close": 9293.5,
+    "volumeBTC": 22.98,
+    "columeUSD": 213280.28,
+    "price": 9282.61
+  },
+  {
+    "timestamp": "28/04/2018 11:00",
+    "open": 9293,
+    "high": 9299.8,
+    "low": 9187.7,
+    "close": 9235.2,
+    "volumeBTC": 25.04,
+    "columeUSD": 231362.62,
+    "price": 9240.38
+  },
+  {
+    "timestamp": "28/04/2018 12:00",
+    "open": 9262.1,
+    "high": 9413.8,
+    "low": 9232.7,
+    "close": 9359.8,
+    "volumeBTC": 44.58,
+    "columeUSD": 416705.24,
+    "price": 9347.18
+  },
+  {
+    "timestamp": "28/04/2018 13:00",
+    "open": 9359.9,
+    "high": 9389.9,
+    "low": 9310.7,
+    "close": 9328.3,
+    "volumeBTC": 26.87,
+    "columeUSD": 251194.74,
+    "price": 9347.83
+  },
+  {
+    "timestamp": "28/04/2018 14:00",
+    "open": 9348.9,
+    "high": 9401.9,
+    "low": 9272.8,
+    "close": 9300.1,
+    "volumeBTC": 44.42,
+    "columeUSD": 414952.15,
+    "price": 9341.28
+  },
+  {
+    "timestamp": "28/04/2018 15:00",
+    "open": 9300,
+    "high": 9343.9,
+    "low": 9251.1,
+    "close": 9343.9,
+    "volumeBTC": 23.54,
+    "columeUSD": 218819.3,
+    "price": 9294.74
+  },
+  {
+    "timestamp": "28/04/2018 16:00",
+    "open": 9344,
+    "high": 9386,
+    "low": 9259.4,
+    "close": 9297,
+    "volumeBTC": 19.16,
+    "columeUSD": 178399.42,
+    "price": 9312.86
+  },
+  {
+    "timestamp": "28/04/2018 17:00",
+    "open": 9297.3,
+    "high": 9372.3,
+    "low": 9270.7,
+    "close": 9311.4,
+    "volumeBTC": 16.66,
+    "columeUSD": 155329.58,
+    "price": 9322.49
+  },
+  {
+    "timestamp": "28/04/2018 18:00",
+    "open": 9302.3,
+    "high": 9429.7,
+    "low": 9292.9,
+    "close": 9386.3,
+    "volumeBTC": 36.11,
+    "columeUSD": 338731.28,
+    "price": 9380.89
+  },
+  {
+    "timestamp": "28/04/2018 19:00",
+    "open": 9373,
+    "high": 9389.7,
+    "low": 9348.5,
+    "close": 9383,
+    "volumeBTC": 19.41,
+    "columeUSD": 181852.56,
+    "price": 9369.9
+  },
+  {
+    "timestamp": "28/04/2018 20:00",
+    "open": 9383,
+    "high": 9449,
+    "low": 9333.1,
+    "close": 9333.1,
+    "volumeBTC": 33.05,
+    "columeUSD": 310519.28,
+    "price": 9396.52
+  },
+  {
+    "timestamp": "28/04/2018 21:00",
+    "open": 9369.5,
+    "high": 9369.5,
+    "low": 9275.1,
+    "close": 9309.6,
+    "volumeBTC": 17.71,
+    "columeUSD": 164961.42,
+    "price": 9312.26
+  },
+  {
+    "timestamp": "28/04/2018 22:00",
+    "open": 9299.9,
+    "high": 9370.1,
+    "low": 9299.9,
+    "close": 9354.5,
+    "volumeBTC": 12.92,
+    "columeUSD": 120609.31,
+    "price": 9338.19
+  },
+  {
+    "timestamp": "28/04/2018 23:00",
+    "open": 9352,
+    "high": 9379.9,
+    "low": 9330.1,
+    "close": 9349,
+    "volumeBTC": 3.64,
+    "columeUSD": 34027.91,
+    "price": 9351.88
+  },
+  {
+    "timestamp": "29/04/2018 00:00",
+    "open": 9349.7,
+    "high": 9410,
+    "low": 9348.9,
+    "close": 9366.4,
+    "volumeBTC": 14.13,
+    "columeUSD": 132454.36,
+    "price": 9375.58
+  },
+  {
+    "timestamp": "29/04/2018 01:00",
+    "open": 9366.4,
+    "high": 9449.8,
+    "low": 9350.2,
+    "close": 9414.5,
+    "volumeBTC": 30.85,
+    "columeUSD": 290527.84,
+    "price": 9418.76
+  },
+  {
+    "timestamp": "29/04/2018 02:00",
+    "open": 9416.2,
+    "high": 9474.9,
+    "low": 9400,
+    "close": 9449.5,
+    "volumeBTC": 30.13,
+    "columeUSD": 284589.24,
+    "price": 9446.75
+  },
+  {
+    "timestamp": "29/04/2018 03:00",
+    "open": 9450,
+    "high": 9474.9,
+    "low": 9410,
+    "close": 9423.7,
+    "volumeBTC": 19.62,
+    "columeUSD": 185149.55,
+    "price": 9436.1
+  },
+  {
+    "timestamp": "29/04/2018 04:00",
+    "open": 9424.2,
+    "high": 9456.1,
+    "low": 9413.3,
+    "close": 9423.1,
+    "volumeBTC": 11.43,
+    "columeUSD": 107775.95,
+    "price": 9431.7
+  },
+  {
+    "timestamp": "29/04/2018 05:00",
+    "open": 9425,
+    "high": 9445,
+    "low": 9387.5,
+    "close": 9419.1,
+    "volumeBTC": 13.52,
+    "columeUSD": 127328.89,
+    "price": 9421.22
+  },
+  {
+    "timestamp": "29/04/2018 06:00",
+    "open": 9428.2,
+    "high": 9445,
+    "low": 9410.3,
+    "close": 9430,
+    "volumeBTC": 10.94,
+    "columeUSD": 103165.18,
+    "price": 9428.46
+  },
+  {
+    "timestamp": "29/04/2018 07:00",
+    "open": 9443.6,
+    "high": 9470.7,
+    "low": 9408.1,
+    "close": 9410.3,
+    "volumeBTC": 19.51,
+    "columeUSD": 184102.01,
+    "price": 9438.36
+  },
+  {
+    "timestamp": "29/04/2018 08:00",
+    "open": 9422.9,
+    "high": 9431.9,
+    "low": 9300,
+    "close": 9302.3,
+    "volumeBTC": 43.83,
+    "columeUSD": 410240.55,
+    "price": 9360.68
+  },
+  {
+    "timestamp": "29/04/2018 09:00",
+    "open": 9300.9,
+    "high": 9348.8,
+    "low": 9250,
+    "close": 9289.3,
+    "volumeBTC": 51.05,
+    "columeUSD": 474847.54,
+    "price": 9302.01
+  },
+  {
+    "timestamp": "29/04/2018 10:00",
+    "open": 9289.6,
+    "high": 9322.1,
+    "low": 9230,
+    "close": 9250.1,
+    "volumeBTC": 29.68,
+    "columeUSD": 275076.07,
+    "price": 9266.7
+  },
+  {
+    "timestamp": "29/04/2018 11:00",
+    "open": 9250.5,
+    "high": 9300.2,
+    "low": 9227,
+    "close": 9294.7,
+    "volumeBTC": 22.67,
+    "columeUSD": 209904.32,
+    "price": 9260.35
+  },
+  {
+    "timestamp": "29/04/2018 12:00",
+    "open": 9294.9,
+    "high": 9346.3,
+    "low": 9270,
+    "close": 9303.7,
+    "volumeBTC": 17.74,
+    "columeUSD": 165144.65,
+    "price": 9308.48
+  },
+  {
+    "timestamp": "29/04/2018 13:00",
+    "open": 9303.3,
+    "high": 9334.1,
+    "low": 9280.3,
+    "close": 9310.1,
+    "volumeBTC": 11.59,
+    "columeUSD": 107892.81,
+    "price": 9308.04
+  },
+  {
+    "timestamp": "29/04/2018 14:00",
+    "open": 9320.9,
+    "high": 9346.1,
+    "low": 9285,
+    "close": 9285,
+    "volumeBTC": 33.51,
+    "columeUSD": 312443.14,
+    "price": 9324.26
+  },
+  {
+    "timestamp": "29/04/2018 15:00",
+    "open": 9300.8,
+    "high": 9339.6,
+    "low": 9289.8,
+    "close": 9321.5,
+    "volumeBTC": 9.33,
+    "columeUSD": 86909.51,
+    "price": 9314.52
+  },
+  {
+    "timestamp": "29/04/2018 16:00",
+    "open": 9314.2,
+    "high": 9331.2,
+    "low": 9300,
+    "close": 9313.4,
+    "volumeBTC": 6.2,
+    "columeUSD": 57789.07,
+    "price": 9314.55
+  },
+  {
+    "timestamp": "29/04/2018 17:00",
+    "open": 9318.4,
+    "high": 9339.1,
+    "low": 9250,
+    "close": 9325.1,
+    "volumeBTC": 25.38,
+    "columeUSD": 235677.28,
+    "price": 9284.83
+  },
+  {
+    "timestamp": "29/04/2018 18:00",
+    "open": 9313.1,
+    "high": 9336.5,
+    "low": 9294.3,
+    "close": 9322.1,
+    "volumeBTC": 8.05,
+    "columeUSD": 75015.24,
+    "price": 9321.13
+  },
+  {
+    "timestamp": "29/04/2018 19:00",
+    "open": 9331,
+    "high": 9335,
+    "low": 9303.3,
+    "close": 9306.7,
+    "volumeBTC": 8.64,
+    "columeUSD": 80584.02,
+    "price": 9324.53
+  },
+  {
+    "timestamp": "29/04/2018 20:00",
+    "open": 9307,
+    "high": 9335,
+    "low": 9287.4,
+    "close": 9321.9,
+    "volumeBTC": 14.73,
+    "columeUSD": 137187.28,
+    "price": 9311.55
+  },
+  {
+    "timestamp": "29/04/2018 21:00",
+    "open": 9321.5,
+    "high": 9343.9,
+    "low": 9304.8,
+    "close": 9324.1,
+    "volumeBTC": 8.11,
+    "columeUSD": 75677.71,
+    "price": 9329.19
+  },
+  {
+    "timestamp": "29/04/2018 22:00",
+    "open": 9335,
+    "high": 9421.4,
+    "low": 9330.1,
+    "close": 9381,
+    "volumeBTC": 18.18,
+    "columeUSD": 170547.47,
+    "price": 9381.31
+  },
+  {
+    "timestamp": "29/04/2018 23:00",
+    "open": 9397,
+    "high": 9420.9,
+    "low": 9379.1,
+    "close": 9398,
+    "volumeBTC": 9.83,
+    "columeUSD": 92456.12,
+    "price": 9401.29
+  },
+  {
+    "timestamp": "30/04/2018 00:00",
+    "open": 9402.2,
+    "high": 9420.2,
+    "low": 9322,
+    "close": 9372.1,
+    "volumeBTC": 8.77,
+    "columeUSD": 82331.43,
+    "price": 9383.77
+  },
+  {
+    "timestamp": "30/04/2018 01:00",
+    "open": 9395.7,
+    "high": 9405.3,
+    "low": 9375.3,
+    "close": 9378.5,
+    "volumeBTC": 4.38,
+    "columeUSD": 41108.64,
+    "price": 9390.61
+  },
+  {
+    "timestamp": "30/04/2018 02:00",
+    "open": 9393.1,
+    "high": 9410,
+    "low": 9379,
+    "close": 9409.9,
+    "volumeBTC": 7.39,
+    "columeUSD": 69396.43,
+    "price": 9393.4
+  },
+  {
+    "timestamp": "30/04/2018 03:00",
+    "open": 9400,
+    "high": 9419.8,
+    "low": 9262.1,
+    "close": 9262.1,
+    "volumeBTC": 24.7,
+    "columeUSD": 230391.08,
+    "price": 9327.9
+  },
+  {
+    "timestamp": "30/04/2018 04:00",
+    "open": 9276,
+    "high": 9322.7,
+    "low": 9269.1,
+    "close": 9293.6,
+    "volumeBTC": 16.52,
+    "columeUSD": 153472.73,
+    "price": 9290.01
+  },
+  {
+    "timestamp": "30/04/2018 05:00",
+    "open": 9285,
+    "high": 9327.5,
+    "low": 9285,
+    "close": 9317.8,
+    "volumeBTC": 7.45,
+    "columeUSD": 69327.25,
+    "price": 9300.75
+  },
+  {
+    "timestamp": "30/04/2018 06:00",
+    "open": 9317.7,
+    "high": 9325.6,
+    "low": 9277,
+    "close": 9299.1,
+    "volumeBTC": 10.89,
+    "columeUSD": 101259.67,
+    "price": 9294.85
+  },
+  {
+    "timestamp": "30/04/2018 07:00",
+    "open": 9315.8,
+    "high": 9321.9,
+    "low": 9226.2,
+    "close": 9274.7,
+    "volumeBTC": 39.4,
+    "columeUSD": 364654.7,
+    "price": 9254.04
+  },
+  {
+    "timestamp": "30/04/2018 08:00",
+    "open": 9246.2,
+    "high": 9283.6,
+    "low": 9170,
+    "close": 9234.8,
+    "volumeBTC": 67.53,
+    "columeUSD": 622395.54,
+    "price": 9215.9
+  },
+  {
+    "timestamp": "30/04/2018 09:00",
+    "open": 9231.9,
+    "high": 9260.5,
+    "low": 9170,
+    "close": 9222.3,
+    "volumeBTC": 28.34,
+    "columeUSD": 261588.83,
+    "price": 9231.56
+  },
+  {
+    "timestamp": "30/04/2018 10:00",
+    "open": 9224.2,
+    "high": 9319.1,
+    "low": 9188.4,
+    "close": 9273.1,
+    "volumeBTC": 36.88,
+    "columeUSD": 341281.36,
+    "price": 9254.83
+  },
+  {
+    "timestamp": "30/04/2018 11:00",
+    "open": 9273.1,
+    "high": 9297.9,
+    "low": 9251.9,
+    "close": 9277.7,
+    "volumeBTC": 12.83,
+    "columeUSD": 118953.25,
+    "price": 9272.8
+  },
+  {
+    "timestamp": "30/04/2018 12:00",
+    "open": 9277.7,
+    "high": 9316.9,
+    "low": 9270.3,
+    "close": 9292.1,
+    "volumeBTC": 10.3,
+    "columeUSD": 95681.16,
+    "price": 9293.12
+  },
+  {
+    "timestamp": "30/04/2018 13:00",
+    "open": 9299.7,
+    "high": 9316,
+    "low": 9270.1,
+    "close": 9278,
+    "volumeBTC": 11.85,
+    "columeUSD": 110089.28,
+    "price": 9290.39
+  },
+  {
+    "timestamp": "30/04/2018 14:00",
+    "open": 9285.7,
+    "high": 9310,
+    "low": 9270,
+    "close": 9301.7,
+    "volumeBTC": 17.94,
+    "columeUSD": 166676.23,
+    "price": 9290.12
+  },
+  {
+    "timestamp": "30/04/2018 15:00",
+    "open": 9300.6,
+    "high": 9308,
+    "low": 9270,
+    "close": 9305.7,
+    "volumeBTC": 16.2,
+    "columeUSD": 150570.9,
+    "price": 9292.65
+  },
+  {
+    "timestamp": "30/04/2018 16:00",
+    "open": 9307.6,
+    "high": 9326.6,
+    "low": 9279,
+    "close": 9279,
+    "volumeBTC": 8.87,
+    "columeUSD": 82518.39,
+    "price": 9303.55
+  },
+  {
+    "timestamp": "30/04/2018 17:00",
+    "open": 9279.7,
+    "high": 9327.7,
+    "low": 9279.7,
+    "close": 9309,
+    "volumeBTC": 9.97,
+    "columeUSD": 92744.07,
+    "price": 9305.64
+  },
+  {
+    "timestamp": "30/04/2018 18:00",
+    "open": 9311.8,
+    "high": 9347.3,
+    "low": 9306,
+    "close": 9329.1,
+    "volumeBTC": 9.02,
+    "columeUSD": 84092.94,
+    "price": 9327.4
+  },
+  {
+    "timestamp": "30/04/2018 19:00",
+    "open": 9328.1,
+    "high": 9335.5,
+    "low": 9256.8,
+    "close": 9311.9,
+    "volumeBTC": 22.37,
+    "columeUSD": 207946.15,
+    "price": 9297.81
+  },
+  {
+    "timestamp": "30/04/2018 20:00",
+    "open": 9315.9,
+    "high": 9339.6,
+    "low": 9286.3,
+    "close": 9295,
+    "volumeBTC": 10.36,
+    "columeUSD": 96440.7,
+    "price": 9311.56
+  },
+  {
+    "timestamp": "30/04/2018 21:00",
+    "open": 9281.7,
+    "high": 9297.5,
+    "low": 9234.6,
+    "close": 9259.3,
+    "volumeBTC": 22.06,
+    "columeUSD": 204275.69,
+    "price": 9260.84
+  },
+  {
+    "timestamp": "30/04/2018 22:00",
+    "open": 9261.9,
+    "high": 9332,
+    "low": 9231,
+    "close": 9252.6,
+    "volumeBTC": 24.59,
+    "columeUSD": 228065.95,
+    "price": 9276.47
+  },
+  {
+    "timestamp": "30/04/2018 23:00",
+    "open": 9252.6,
+    "high": 9283.4,
+    "low": 9235.6,
+    "close": 9274.6,
+    "volumeBTC": 8.55,
+    "columeUSD": 79202.82,
+    "price": 9263.48
+  },
+  {
+    "timestamp": "01/05/2018 00:00",
+    "open": 9275.7,
+    "high": 9275.7,
+    "low": 9030.3,
+    "close": 9054.2,
+    "volumeBTC": 71.25,
+    "columeUSD": 649975.65,
+    "price": 9122.84
+  },
+  {
+    "timestamp": "01/05/2018 01:00",
+    "open": 9054.2,
+    "high": 9093.5,
+    "low": 8954.5,
+    "close": 9073.5,
+    "volumeBTC": 55.41,
+    "columeUSD": 500907.01,
+    "price": 9039.73
+  },
+  {
+    "timestamp": "01/05/2018 02:00",
+    "open": 9075,
+    "high": 9100,
+    "low": 9017.9,
+    "close": 9093.8,
+    "volumeBTC": 26.69,
+    "columeUSD": 242015.01,
+    "price": 9067.06
+  },
+  {
+    "timestamp": "01/05/2018 03:00",
+    "open": 9079.5,
+    "high": 9102.5,
+    "low": 9020,
+    "close": 9045.2,
+    "volumeBTC": 19.58,
+    "columeUSD": 177273.13,
+    "price": 9053.99
+  },
+  {
+    "timestamp": "01/05/2018 04:00",
+    "open": 9050.4,
+    "high": 9091.6,
+    "low": 9012.9,
+    "close": 9062,
+    "volumeBTC": 8.83,
+    "columeUSD": 79881.62,
+    "price": 9047.13
+  },
+  {
+    "timestamp": "01/05/2018 05:00",
+    "open": 9057.7,
+    "high": 9057.9,
+    "low": 8988.1,
+    "close": 9007.9,
+    "volumeBTC": 12.42,
+    "columeUSD": 112055.94,
+    "price": 9021.77
+  },
+  {
+    "timestamp": "01/05/2018 06:00",
+    "open": 9046.5,
+    "high": 9047.4,
+    "low": 9011.4,
+    "close": 9047.1,
+    "volumeBTC": 8.19,
+    "columeUSD": 74026.94,
+    "price": 9036.73
+  },
+  {
+    "timestamp": "01/05/2018 07:00",
+    "open": 9040,
+    "high": 9069.8,
+    "low": 9029.5,
+    "close": 9041.3,
+    "volumeBTC": 13.67,
+    "columeUSD": 123682.34,
+    "price": 9049.67
+  },
+  {
+    "timestamp": "01/05/2018 08:00",
+    "open": 9041.3,
+    "high": 9119.9,
+    "low": 9041.3,
+    "close": 9098.4,
+    "volumeBTC": 15.96,
+    "columeUSD": 145158.33,
+    "price": 9095.63
+  },
+  {
+    "timestamp": "01/05/2018 09:00",
+    "open": 9100.4,
+    "high": 9144.8,
+    "low": 9090.1,
+    "close": 9101.6,
+    "volumeBTC": 22.17,
+    "columeUSD": 201968.38,
+    "price": 9111.12
+  },
+  {
+    "timestamp": "01/05/2018 10:00",
+    "open": 9101.8,
+    "high": 9111.6,
+    "low": 9005.2,
+    "close": 9069.3,
+    "volumeBTC": 22.08,
+    "columeUSD": 200281.96,
+    "price": 9072.59
+  },
+  {
+    "timestamp": "01/05/2018 11:00",
+    "open": 9081.1,
+    "high": 9099.5,
+    "low": 9001,
+    "close": 9014.4,
+    "volumeBTC": 14.89,
+    "columeUSD": 134836.46,
+    "price": 9056.06
+  },
+  {
+    "timestamp": "01/05/2018 12:00",
+    "open": 9015,
+    "high": 9023.2,
+    "low": 8877.1,
+    "close": 8930,
+    "volumeBTC": 52.1,
+    "columeUSD": 465616.75,
+    "price": 8937.22
+  },
+  {
+    "timestamp": "01/05/2018 13:00",
+    "open": 8930,
+    "high": 8998.7,
+    "low": 8891.3,
+    "close": 8988.8,
+    "volumeBTC": 22.02,
+    "columeUSD": 197127.81,
+    "price": 8951.72
+  },
+  {
+    "timestamp": "01/05/2018 14:00",
+    "open": 8988.4,
+    "high": 9000,
+    "low": 8953.9,
+    "close": 8987.9,
+    "volumeBTC": 20.4,
+    "columeUSD": 183346.44,
+    "price": 8986
+  },
+  {
+    "timestamp": "01/05/2018 15:00",
+    "open": 8999,
+    "high": 9031.8,
+    "low": 8950,
+    "close": 8970.5,
+    "volumeBTC": 43.36,
+    "columeUSD": 389639.87,
+    "price": 8986.88
+  },
+  {
+    "timestamp": "01/05/2018 16:00",
+    "open": 8982.3,
+    "high": 9039.9,
+    "low": 8960,
+    "close": 9023.5,
+    "volumeBTC": 24.65,
+    "columeUSD": 221594.83,
+    "price": 8988.29
+  },
+  {
+    "timestamp": "01/05/2018 17:00",
+    "open": 9019.3,
+    "high": 9034,
+    "low": 8984.7,
+    "close": 9012.3,
+    "volumeBTC": 15.47,
+    "columeUSD": 139357.09,
+    "price": 9006.15
+  },
+  {
+    "timestamp": "01/05/2018 18:00",
+    "open": 9012,
+    "high": 9024.6,
+    "low": 8970,
+    "close": 8990.7,
+    "volumeBTC": 29.67,
+    "columeUSD": 267050.78,
+    "price": 9000.4
+  },
+  {
+    "timestamp": "01/05/2018 19:00",
+    "open": 9005.2,
+    "high": 9027.2,
+    "low": 8986.1,
+    "close": 9013.7,
+    "volumeBTC": 8.16,
+    "columeUSD": 73523.53,
+    "price": 9011.4
+  },
+  {
+    "timestamp": "01/05/2018 20:00",
+    "open": 9003,
+    "high": 9058.4,
+    "low": 8991.6,
+    "close": 9027.7,
+    "volumeBTC": 8.23,
+    "columeUSD": 74290.57,
+    "price": 9026.33
+  },
+  {
+    "timestamp": "01/05/2018 21:00",
+    "open": 9038,
+    "high": 9113.6,
+    "low": 9037.9,
+    "close": 9091.6,
+    "volumeBTC": 18.02,
+    "columeUSD": 163721.61,
+    "price": 9087.59
+  },
+  {
+    "timestamp": "01/05/2018 22:00",
+    "open": 9100,
+    "high": 9103,
+    "low": 9046.3,
+    "close": 9047.3,
+    "volumeBTC": 5.1,
+    "columeUSD": 46357.75,
+    "price": 9086.82
+  },
+  {
+    "timestamp": "01/05/2018 23:00",
+    "open": 9048.9,
+    "high": 9087.2,
+    "low": 9038,
+    "close": 9058.9,
+    "volumeBTC": 1.97,
+    "columeUSD": 17891.85,
+    "price": 9061.63
+  },
+  {
+    "timestamp": "02/05/2018 00:00",
+    "open": 9067.1,
+    "high": 9097.3,
+    "low": 9018.5,
+    "close": 9030,
+    "volumeBTC": 6.29,
+    "columeUSD": 56946.39,
+    "price": 9056.99
+  },
+  {
+    "timestamp": "02/05/2018 01:00",
+    "open": 9026.1,
+    "high": 9049.9,
+    "low": 9000,
+    "close": 9047.9,
+    "volumeBTC": 13.54,
+    "columeUSD": 122198.08,
+    "price": 9027.15
+  },
+  {
+    "timestamp": "02/05/2018 02:00",
+    "open": 9043.9,
+    "high": 9080,
+    "low": 9027.5,
+    "close": 9060.6,
+    "volumeBTC": 9.21,
+    "columeUSD": 83431.01,
+    "price": 9058.31
+  },
+  {
+    "timestamp": "02/05/2018 03:00",
+    "open": 9075.8,
+    "high": 9102.6,
+    "low": 9045,
+    "close": 9069.4,
+    "volumeBTC": 8.99,
+    "columeUSD": 81648.38,
+    "price": 9079.87
+  },
+  {
+    "timestamp": "02/05/2018 04:00",
+    "open": 9067.2,
+    "high": 9100,
+    "low": 9060.1,
+    "close": 9095.1,
+    "volumeBTC": 4.69,
+    "columeUSD": 42608.31,
+    "price": 9084.89
+  },
+  {
+    "timestamp": "02/05/2018 05:00",
+    "open": 9095,
+    "high": 9100,
+    "low": 9075,
+    "close": 9084.8,
+    "volumeBTC": 6.43,
+    "columeUSD": 58433.69,
+    "price": 9089.95
+  },
+  {
+    "timestamp": "02/05/2018 06:00",
+    "open": 9075,
+    "high": 9174,
+    "low": 9056.3,
+    "close": 9174,
+    "volumeBTC": 22.19,
+    "columeUSD": 202382.95,
+    "price": 9118.48
+  },
+  {
+    "timestamp": "02/05/2018 07:00",
+    "open": 9174,
+    "high": 9190.4,
+    "low": 9128.5,
+    "close": 9147.8,
+    "volumeBTC": 17.46,
+    "columeUSD": 159911.75,
+    "price": 9159.7
+  },
+  {
+    "timestamp": "02/05/2018 08:00",
+    "open": 9145.1,
+    "high": 9163.7,
+    "low": 9105.3,
+    "close": 9122.4,
+    "volumeBTC": 8.54,
+    "columeUSD": 77890.22,
+    "price": 9123.03
+  },
+  {
+    "timestamp": "02/05/2018 09:00",
+    "open": 9137.3,
+    "high": 9138.4,
+    "low": 9112.2,
+    "close": 9113,
+    "volumeBTC": 6.42,
+    "columeUSD": 58603.94,
+    "price": 9123.98
+  },
+  {
+    "timestamp": "02/05/2018 10:00",
+    "open": 9113,
+    "high": 9179.1,
+    "low": 9113,
+    "close": 9145.3,
+    "volumeBTC": 18.4,
+    "columeUSD": 168424.75,
+    "price": 9155.46
+  },
+  {
+    "timestamp": "02/05/2018 11:00",
+    "open": 9146.8,
+    "high": 9167.8,
+    "low": 9136.7,
+    "close": 9140,
+    "volumeBTC": 12.07,
+    "columeUSD": 110475.21,
+    "price": 9153.7
+  },
+  {
+    "timestamp": "02/05/2018 12:00",
+    "open": 9143.9,
+    "high": 9145.4,
+    "low": 9070.1,
+    "close": 9078.6,
+    "volumeBTC": 24.4,
+    "columeUSD": 222350.85,
+    "price": 9111
+  },
+  {
+    "timestamp": "02/05/2018 13:00",
+    "open": 9078.3,
+    "high": 9097.1,
+    "low": 9013.2,
+    "close": 9089.6,
+    "volumeBTC": 22.8,
+    "columeUSD": 206619.43,
+    "price": 9060.47
+  },
+  {
+    "timestamp": "02/05/2018 14:00",
+    "open": 9062.8,
+    "high": 9118.7,
+    "low": 9055,
+    "close": 9066.2,
+    "volumeBTC": 25.37,
+    "columeUSD": 230246.91,
+    "price": 9073.98
+  },
+  {
+    "timestamp": "02/05/2018 15:00",
+    "open": 9067.1,
+    "high": 9129.2,
+    "low": 9060.1,
+    "close": 9112.1,
+    "volumeBTC": 13.87,
+    "columeUSD": 126219.94,
+    "price": 9101.97
+  },
+  {
+    "timestamp": "02/05/2018 16:00",
+    "open": 9120,
+    "high": 9137.8,
+    "low": 9095.3,
+    "close": 9112.4,
+    "volumeBTC": 18.13,
+    "columeUSD": 165203.71,
+    "price": 9112.01
+  },
+  {
+    "timestamp": "02/05/2018 17:00",
+    "open": 9105.4,
+    "high": 9115.7,
+    "low": 9089.9,
+    "close": 9106.2,
+    "volumeBTC": 8.18,
+    "columeUSD": 74465.38,
+    "price": 9100.04
+  },
+  {
+    "timestamp": "02/05/2018 18:00",
+    "open": 9102.8,
+    "high": 9118.1,
+    "low": 9075.4,
+    "close": 9110,
+    "volumeBTC": 4.34,
+    "columeUSD": 39473.24,
+    "price": 9103.66
+  },
+  {
+    "timestamp": "02/05/2018 19:00",
+    "open": 9110,
+    "high": 9113.3,
+    "low": 9060,
+    "close": 9109.9,
+    "volumeBTC": 7.87,
+    "columeUSD": 71547.89,
+    "price": 9085.9
+  },
+  {
+    "timestamp": "02/05/2018 20:00",
+    "open": 9109.9,
+    "high": 9150,
+    "low": 9096,
+    "close": 9150,
+    "volumeBTC": 10.54,
+    "columeUSD": 96185.74,
+    "price": 9129.16
+  },
+  {
+    "timestamp": "02/05/2018 21:00",
+    "open": 9150,
+    "high": 9207.2,
+    "low": 9150,
+    "close": 9182.1,
+    "volumeBTC": 54.71,
+    "columeUSD": 502850.31,
+    "price": 9190.95
+  },
+  {
+    "timestamp": "02/05/2018 22:00",
+    "open": 9180.3,
+    "high": 9207.2,
+    "low": 9164.6,
+    "close": 9207.2,
+    "volumeBTC": 19.6,
+    "columeUSD": 180199.4,
+    "price": 9195.02
+  },
+  {
+    "timestamp": "02/05/2018 23:00",
+    "open": 9207.2,
+    "high": 9209.4,
+    "low": 9161.2,
+    "close": 9184.5,
+    "volumeBTC": 7.88,
+    "columeUSD": 72356.54,
+    "price": 9184.14
+  },
+  {
+    "timestamp": "03/05/2018 00:00",
+    "open": 9186.1,
+    "high": 9186.1,
+    "low": 9146.2,
+    "close": 9168.1,
+    "volumeBTC": 16.74,
+    "columeUSD": 153312.85,
+    "price": 9159.68
+  },
+  {
+    "timestamp": "03/05/2018 01:00",
+    "open": 9166.9,
+    "high": 9200,
+    "low": 9154.5,
+    "close": 9194.7,
+    "volumeBTC": 17.4,
+    "columeUSD": 159887.46,
+    "price": 9186.61
+  },
+  {
+    "timestamp": "03/05/2018 02:00",
+    "open": 9186.1,
+    "high": 9199.9,
+    "low": 9167.3,
+    "close": 9194.9,
+    "volumeBTC": 4.23,
+    "columeUSD": 38830.1,
+    "price": 9179.37
+  },
+  {
+    "timestamp": "03/05/2018 03:00",
+    "open": 9195,
+    "high": 9208.1,
+    "low": 9177.2,
+    "close": 9181.2,
+    "volumeBTC": 7.24,
+    "columeUSD": 66557.67,
+    "price": 9193.92
+  },
+  {
+    "timestamp": "03/05/2018 04:00",
+    "open": 9181.2,
+    "high": 9216.6,
+    "low": 9180,
+    "close": 9216.6,
+    "volumeBTC": 33.88,
+    "columeUSD": 311742.92,
+    "price": 9201.71
+  },
+  {
+    "timestamp": "03/05/2018 05:00",
+    "open": 9216.6,
+    "high": 9228.9,
+    "low": 9201.2,
+    "close": 9206.2,
+    "volumeBTC": 14.1,
+    "columeUSD": 130022.57,
+    "price": 9218.48
+  }
+]
